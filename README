@@ -1,3 +1,6 @@
+Author: Yixuan Guo, Haoyang Wu, Yang Liu, Rebecca J. Stones, Gang Wang, Xiaoguang Liu, Qiang Xie.
+Nankai University, 94 Weijin Road, Tianjin 300071, China.
+
 We present PhyloPipe, a graphical pipe-lining software for phylogenomic analysis. 
 PhyloPipe combines a collection of widely used software in phylogenomic research, HaMStR, MAFFT, MUSCLE, Aliscore and RaxmlGUI, together with intermediate procedures into an integrated pipeline. It provides a graphical user interface manipulating the compiled input files of annotated transcriptomic data into a RAxML-compatible format, which can be used to generate a phylogenetic tree.
 
