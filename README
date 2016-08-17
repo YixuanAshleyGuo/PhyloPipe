@@ -1,0 +1,14 @@
+We present PhyloPipe, a graphical pipe-lining software for phylogenomic analysis. 
+PhyloPipe combines a collection of widely used software in phylogenomic research, HaMStR, MAFFT, MUSCLE, Aliscore and RaxmlGUI, together with intermediate procedures into an integrated pipeline. It provides a graphical user interface manipulating the compiled input files of annotated transcriptomic data into a RAxML-compatible format, which can be used to generate a phylogenetic tree.
+
+Directory Structure:
+1. PhyloPipe_QTProject
+This is the source codes of PhyloPipe project. The software is built on QTCreator development platform on CentOS6.5 Operating System.
+2. PhyloPipe.v1.1 
+This is the current stable version of PhyloPipe, can be directly activated via double-click on Linux environment.
+3. PhyloPipe.v1.1_manual_20150610.pdf
+This is the manual for PhyloPipe v1.1, preparation and useage case is illustrated in this manual file.
+4. PhyloPipe.v1.1_manuscript_20150610.pdf
+This is the manuscript of PhyloPipe v1.1 in BMC Bioinformatics format. PhyloPipe flowchart and key algorithms is elaborated in this manuascript.
+
+If you have any suggestions about PhyloPipe, please contact me at guoyixuan@nbjl.nankai.edu.cn.
