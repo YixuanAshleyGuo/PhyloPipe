@@ -1,0 +1,4 @@
+3
+cd /home/GUOYIXUAN/temp/Muscle/temp1small;perl Aliscore.02.2.pl
+/home/GUOYIXUAN/temp/Muscle/temp1small
+/home/GUOYIXUAN/temp/AliAdjust/temp1small
